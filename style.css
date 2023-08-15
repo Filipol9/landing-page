@@ -110,3 +110,44 @@ body{
     font-weight: bold;
     color: #1F2937;
 }
+.sign-up2{
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    color: #F9FAF8
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.banner2{
+    display: flex;
+    background-color: #3882F6;
+    flex-basis: 1100px;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+    border-radius: 15px;
+}
+.banner-text{
+    font-size: 20px;
+    color:#F9FAF8;
+    font-weight: bold;
+}
+.banner-subtext{
+    font-size: 16px;
+    color:#E5E7EB;
+}
+.footer{
+    background-color: #1F2937;
+    font-size: 16px;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
